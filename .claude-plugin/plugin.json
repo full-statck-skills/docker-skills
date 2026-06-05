@@ -1,0 +1,30 @@
+{
+  "name": "docker-skills",
+  "version": "1.0.0",
+  "description": "Docker containerization skills — Docker, Docker Compose",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/docker-skills",
+  "repository": "https://github.com/full-statck-skills/docker-skills",
+  "source": "./",
+  "skills": [
+    "./skills/docker-ai-ml",
+    "./skills/docker-basics",
+    "./skills/docker-build",
+    "./skills/docker-buildx",
+    "./skills/docker-cicd",
+    "./skills/docker-compose",
+    "./skills/docker-dockerfile",
+    "./skills/docker-hub",
+    "./skills/docker-networking",
+    "./skills/docker-production",
+    "./skills/docker-run",
+    "./skills/docker-scout",
+    "./skills/docker-security",
+    "./skills/docker-storage",
+    "./skills/docker-testcontainers",
+    "./skills/docker-troubleshooting",
+  ]
+}
